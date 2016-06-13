@@ -7,3 +7,5 @@ https://github.com/Emmazhran/doweb/wiki/task3-Requirement
 https://github.com/Emmazhran/doweb/wiki/task4-Modeling
 ##task5:Web架构设计
 https://github.com/Emmazhran/doweb/wiki/task5-Architecture
+##task6:Web应用设计
+https://github.com/Emmazhran/doweb/wiki/task6-Application-Design
