@@ -9,3 +9,6 @@ https://github.com/Emmazhran/doweb/wiki/task4-Modeling
 https://github.com/Emmazhran/doweb/wiki/task5-Architecture
 ##task6:Web应用设计
 https://github.com/Emmazhran/doweb/wiki/task6-Application-Design
+##task7:Web应用构建
+
+##task8:Web应用测试
