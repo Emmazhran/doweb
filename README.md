@@ -10,6 +10,6 @@ https://github.com/Emmazhran/doweb/wiki/task5-Architecture
 ##task6:Web应用设计
 https://github.com/Emmazhran/doweb/wiki/task6-Application-Design
 ##task7:Web应用构建
-
+https://github.com/Emmazhran/doweb/wiki/Task7-Structing
 ##task8:Web应用测试
 https://github.com/Emmazhran/doweb/wiki/Task8-testing
